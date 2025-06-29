@@ -1,25 +1,22 @@
 <h1 align="center">Hi 👋, I'm Suraj S. Neelagund</h1>
-<h3 align="center">AI & Data Science Enthusiast | Building Smart, Scalable AI Solutions</h3>
+<h3 align="center">Artificial Intelligence & Data Science Enthusiast | Building Smart, Scalable AI Solutions</h3>
 
 ---
 
 ## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/surajneelagund)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:surajneelagund@gmail.com)  
-[![Hugging Face](https://img.shields.io/badge/HuggingFace-%23f9ac00.svg?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/SurajNeelagund)  
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/SurajNeelagund)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/surajneelagund) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:surajneelagund@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/SurajNeelagund) [![Hugging Face](https://img.shields.io/badge/HuggingFace-%23f9ac00.svg?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/SurajNeelagund)  
 
 ---
 
 ## 💼 About Me
 
-- 🎓 AI & Data Science Graduate (VTU, 2024) with a CGPA of 8.39  
+- 🎓 Artificial Intelligence & Data Science Graduate (VTU, 2024) with a CGPA of 8.39  
 - 💻 Currently working at **LaanTek Solutions** as an **AI Intern**, building real-time ML/DL systems  
-- 🔬 Interested in **Computer Vision**, **Generative AI**, and **AI for Social Good**  
+- 🔬 Interested in **Computer Vision**, **Data Science**, **Generative AI**, and **AI for Social Good**  
 - 🚀 Projects:  
   - **FRAMS** – Real-Time Face Recognition Attendance System  
   - **RoomCraft** – AI Room Planning Web App  
-  - **Smoking Cessation Chatbot** – NLP + LangChain  
+  - **Smoking Cessation Chatbot** – NLP + Finetune Model 
   - **Cardiovascular Risk Prediction** – DL + Medical Imaging  
 - 🌱 Currently exploring **MLOps**, **LLM Agentic Workflows**, and **Cloud Deployment**
 
@@ -48,7 +45,7 @@
 
 - **🧠 FRAMS** – Real-Time Face Recognition Attendance System with anti-spoofing (YOLOv8) and FastAPI cloud sync  
 - **🛋 RoomCraft** – 2D Room Planner with AI-Powered Room Redesign using Hugging Face + FastAPI  
-- **💬 Smoking Cessation Chatbot** – LangChain-based LLM chatbot deployed with Gradio  
+- **💬 Smoking Cessation Chatbot** – Finetune-based LLM chatbot deployed with Gradio  
 - **🩺 Cardiovascular Risk Predictor** – VGG19 CNN for retinal image classification with 90% accuracy
 
 ---
